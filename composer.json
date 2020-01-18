@@ -1,0 +1,5 @@
+{
+    "require": {
+        "batons0/getresponse": "^0.1.0"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "96697e08dab7e650062ff7702b83730c",
+    "packages": [
+        {
+            "name": "batons0/getresponse",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Batons0/getresponse-api-php.git",
+                "reference": "2719574cbb8410977a2e3c5ae6df98b8c1675fb7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Batons0/getresponse-api-php/zipball/2719574cbb8410977a2e3c5ae6df98b8c1675fb7",
+                "reference": "2719574cbb8410977a2e3c5ae6df98b8c1675fb7",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/GetResponseAPI3.class.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Pawel Maslak",
+                    "email": "pawel.maslak@getresponse.com"
+                },
+                {
+                    "name": "Grzegorz Struczynski",
+                    "email": "grzegorz.struczynski@getresponse.com"
+                },
+                {
+                    "name": "Tomasz Żuk",
+                    "email": "batons0@gmail.com"
+                }
+            ],
+            "description": "GetResponse API v3 client library.",
+            "homepage": "https://github.com/Batons0/getresponse-api-php",
+            "keywords": [
+                "api",
+                "email",
+                "getresponse"
+            ],
+            "time": "2017-01-20T17:31:53+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
